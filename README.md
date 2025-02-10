@@ -1,5 +1,6 @@
-## Hi there 👋
+Second-year engineering student specializing in robotics and 3D printing. My projects have given me practical experience in CAD, product design, handling of Arduino-like controllers, and robots using 3D printing technologies. I have developed and integrated hardware and software solutions that apply rigorous engineering principles to real-world challenges.
 
+I’ve used programming languages such as C++ for 3d printer firmware modifications, Arduino for a couople of small robotics projects and Python for Machine learning and have a strong foundation in problem-solving.
 <!--
 **Thetigri/Thetigri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
