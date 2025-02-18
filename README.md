@@ -25,8 +25,7 @@ Feel free to explore my repositories to see the projects I've worked on! 🚀
 
 ## Connect with Me
 
-[![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/tigran-og-27051b30b/?originalSubdomain=es) [![Makerworld](![image](https://github.com/user-attachments/assets/0dda2290-a877-4b0f-b49e-1cd62dce0b00)
-)](makerworld.com/es/@TheTg)
+[![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/tigran-og-27051b30b/?originalSubdomain=es) [![Makerworld](https://img.icons8.com/nolan/64/3d-scale.png)](makerworld.com/es/@TheTg)
 
 
 <!--
