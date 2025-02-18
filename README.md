@@ -1,6 +1,6 @@
 # About Me
 
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Arduino](https://img.icons8.com/color/48/000000/arduino.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![CAD](https://img.icons8.com/color/48/000000/autodesk-autocad.png) ![Cura](https://img.icons8.com/nolan/64/ultimaker-cura.png)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Arduino](https://img.icons8.com/color/48/000000/arduino.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![CAD](https://img.icons8.com/color/48/000000/autodesk-autocad.png) ![Cura](https://img.icons8.com/ios/50/000000/ultimaker-cura.png)
 
 👨‍🎓 **Second-year Engineering Student**  
 Specializing in **Robotics** 🤖 and **3D Printing** 🖨. My academic and personal projects have provided hands-on experience in:
@@ -22,6 +22,11 @@ I’ve successfully developed and integrated both **hardware** and **software** 
 - Strong foundation in **problem-solving** 🧠 and applying engineering concepts to practical scenarios.
 
 Feel free to explore my repositories to see the projects I've worked on! 🚀
+
+## Connect with Me
+
+[![LinkedIn](https://img.icons8.com/ios/50/000000/linkedin.png)](https://www.linkedin.com/in/tigran-og-27051b30b/?originalSubdomain=es) [![Makerworld](https://img.icons8.com/ios/50/000000/makerworld.png)](makerworld.com/es/@TheTg)
+
 
 <!--
 **Thetigri/Thetigri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
