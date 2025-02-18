@@ -1,7 +1,6 @@
 # About Me
 
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Arduino](https://img.icons8.com/color/48/000000/arduino.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![CAD](https://img.icons8.com/color/48/000000/autodesk-autocad.png) ![3D Printing](https://img.icons8.com/ios/50/000000/3d-printing.png)
-
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Arduino](https://img.icons8.com/color/48/000000/arduino.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![CAD](https://img.icons8.com/color/48/000000/autodesk-autocad.png) ![Cura](https://img.icons8.com/ios/50/000000/ultimaker-cura.png)
 👨‍🎓 **Second-year Engineering Student**  
 Specializing in **Robotics** 🤖 and **3D Printing** 🖨. My academic and personal projects have provided hands-on experience in:
 
