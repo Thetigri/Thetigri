@@ -18,8 +18,8 @@ I’ve successfully developed and integrated both **hardware** and **software** 
   - ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) **C++** (for 3D printer firmware modifications)  
   - ![Arduino](https://img.icons8.com/color/48/000000/arduino.png) **Arduino** (for robotics projects)  
   - ![Python](https://img.icons8.com/color/48/000000/python.png) **Python** (for Machine Learning)
-  - ![Java](https://img.icons8.com/color/48/000000/java.png) **Java** (for software development)  
-  - ![SQL](https://img.icons8.com/color/48/000000/sql.png) **SQL** (for database management)
+  - ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png) **Java** (for software development)  
+  - ![SQL](https://img.icons8.com/color/48/my-sql.png) **SQL** (for database management)
 
 - Strong foundation in **problem-solving** 🧠 and applying engineering concepts to practical scenarios.
 
@@ -27,7 +27,7 @@ Feel free to explore my repositories to see the projects I've worked on! 🚀
 
 ## Connect with Me
 
-[![LinkedIn](https://img.icons8.com/fluency/64/linkedin.png)](https://www.linkedin.com/in/tigran-og-27051b30b/?originalSubdomain=es) [![Makerworld](https://media.printables.com/media/prints/754259/images/5885287_be47d97c-1aee-45e2-9f54-09a06093081a_b35039bb-5086-43b5-8b8d-4dde65caf490/thumbs/inside/80x60/webp/bambulablogo.webp)](makerworld.com/es/@TheTg)
+[![LinkedIn](https://img.icons8.com/fluency/120/linkedin.png)](https://www.linkedin.com/in/tigran-og-27051b30b/?originalSubdomain=es) [![Makerworld](https://media.printables.com/media/prints/754259/images/5885287_be47d97c-1aee-45e2-9f54-09a06093081a_b35039bb-5086-43b5-8b8d-4dde65caf490/thumbs/inside/160x120/webp/bambulablogo.webp)](makerworld.com/es/@TheTg)
 
 
 <!--
