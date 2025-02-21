@@ -25,7 +25,7 @@ I’ve successfully developed and integrated both **hardware** and **software** 
 
 Feel free to explore my repositories to see the projects I've worked on! 🚀
 
-## Connect with Me
+## Other links of mine
 
 [![LinkedIn](https://img.icons8.com/fluency/120/linkedin.png)](https://www.linkedin.com/in/tigran-og-27051b30b/?originalSubdomain=es) [![Makerworld](https://media.printables.com/media/prints/754259/images/5885287_be47d97c-1aee-45e2-9f54-09a06093081a_b35039bb-5086-43b5-8b8d-4dde65caf490/thumbs/inside/160x120/webp/bambulablogo.webp)](makerworld.com/es/@TheTg)
 
