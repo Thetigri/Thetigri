@@ -9,7 +9,8 @@ Specializing in **Robotics** 🤖 and **3D Printing** 🖨. My academic and pers
 - **Product Design** 📐  
 - **Arduino-like Controllers** ⚙️  
 - **Robotic Systems using 3D Printing Technologies** 🦾
-
+- **3D Printing** 🖨️
+- **Modifying 3D Printer Firmware** (Marlin) 🖥️
 I’ve successfully developed and integrated both **hardware** and **software** solutions, applying rigorous engineering principles to address real-world challenges.
 
 ## Technologies and Skills
