@@ -18,9 +18,11 @@ I’ve successfully developed and integrated both **hardware** and **software** 
 - **Programming Languages**:  
   - ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) **C++** (for 3D printer firmware modifications)  
   - ![Arduino](https://img.icons8.com/color/48/000000/arduino.png) **Arduino** (for robotics projects)  
-  - ![Python](https://img.icons8.com/color/48/000000/python.png) **Python** (for Machine Learning)
+  - ![Python](https://img.icons8.com/color/48/000000/python.png) **Python** (for Machine Learning)  
   - ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png) **Java** (for software development)  
-  - ![SQL](https://img.icons8.com/color/48/my-sql.png) **SQL** (for database management)
+  - ![SQL](https://img.icons8.com/color/48/my-sql.png) **SQL** (for database management)  
+  - ![OrcaSlicer](https://img.icons8.com/ios/50/000000/printer.png) **OrcaSlicer** (for 3D printing slicing)  
+  - ![Cura](https://img.icons8.com/ios/50/000000/printer.png) **Cura Slicer** (for 3D printing slicing)
 
 - Strong foundation in **problem-solving** 🧠 and applying engineering concepts to practical scenarios.
 
