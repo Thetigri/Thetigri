@@ -1,6 +1,6 @@
 # About Me
 
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Arduino](https://img.icons8.com/color/48/000000/arduino.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![CAD](https://img.icons8.com/color/48/000000/autodesk-autocad.png) ![Cura](https://img.icons8.com/nolan/56/ultimaker-cura.png)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Arduino](https://img.icons8.com/color/48/000000/arduino.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![CAD](https://github.com/Thetigri/Thetigri/blob/main/Images/autodesk-fusion-logo1.png) ![Cura](https://github.com/Thetigri/Thetigri/blob/main/Images/ultimaker-cura-logo.png)![OrcaSlicer](https://github.com/Thetigri/Thetigri/blob/main/Images/orcaslicer-logo.png)![Marlin](https://github.com/Thetigri/Thetigri/blob/main/Images/marlinlogo.png)
 
 👨‍🎓 **Second-year Engineering Student**  
 Specializing in **Robotics** 🤖 and **3D Printing** 🖨. My academic and personal projects have provided hands-on experience in:
