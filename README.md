@@ -21,8 +21,9 @@ I’ve successfully developed and integrated both **hardware** and **software** 
   - ![Python](https://img.icons8.com/color/48/000000/python.png) **Python** (for Machine Learning)  
   - ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png) **Java** (for software development)  
   - ![SQL](https://img.icons8.com/color/48/my-sql.png) **SQL** (for database management)  
-  - ![OrcaSlicer](https://img.icons8.com/ios/50/000000/printer.png) **OrcaSlicer** (for 3D printing slicing)  
-  - ![Cura](https://img.icons8.com/ios/50/000000/printer.png) **Cura Slicer** (for 3D printing slicing)
+  - ![OrcaSlicer](https://github.com/Thetigri/Thetigri/blob/main/Images/orcaslicer-logo.png) **OrcaSlicer** (for 3D printing slicing)  
+  - ![Cura](https://github.com/Thetigri/Thetigri/blob/main/Images/ultimaker-cura-logo.png) **Cura Slicer** (for 3D printing slicing)
+  - ![Marlin](https://github.com/Thetigri/Thetigri/blob/main/Images/marlinlogo.png) **MArlin Firmware** (for 3D printer settings)
 
 - Strong foundation in **problem-solving** 🧠 and applying engineering concepts to practical scenarios.
 
